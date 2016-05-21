@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.centralwaynumbrs.MainActivity"
+    android:orientation="vertical">
+    <ImageView
+        android:src="@drawable/cwn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="-140dp"
+        android:layout_marginTop="-140dp" />
+    <TextView
+        android:text="ONE APP. ALL BANKS."
+        android:gravity="center"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif"
+        android:paddingTop="40dp"
+        android:paddingBottom="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="Centralway creates revolutionary mobile banking technologies."
+        android:gravity="center"
+        android:textSize="14sp"
+        android:fontFamily="sans-serif"
+        android:paddingBottom="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="Contact"
+        android:textSize="21sp"
+        android:paddingLeft="12dp"
+        android:paddingBottom="4dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="Centralway Numbrs AG"
+        android:paddingLeft="12dp"
+        android:paddingBottom="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="Edenstrasse 20, 8045 Zürich"
+        android:paddingLeft="12dp"
+        android:paddingBottom="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="+41 44 578 40 00"
+        android:paddingLeft="12dp"
+        android:paddingBottom="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="www.centralway.com"
+        android:paddingLeft="12dp"
+        android:paddingBottom="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="info@centralway.com"
+        android:paddingLeft="12dp"
+        android:paddingBottom="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
